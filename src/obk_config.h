@@ -290,7 +290,7 @@
 #define ENABLE_DRIVER_PIXELANIM					1
 #define ENABLE_DRIVER_SM15155E					1
 // anadido juan
-#define ENABLE_DRIVER_PINMUTEX					1
+// #define ENABLE_DRIVER_PINMUTEX					1
 
 
 #endif
